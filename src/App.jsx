@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.css';
 import "./App.css";
 
@@ -232,7 +232,7 @@ function Empform() {
                 onChange={handleChanges}
                 className="form-check-input"
               />
-              <label className="form-check-label">Yes</label>
+              <label className="form-check-label"> Yes</label>
             </div>
           </div>
         </div>
