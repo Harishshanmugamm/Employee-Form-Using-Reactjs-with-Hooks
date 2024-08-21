@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://harishshanmugamm.github.io/Employee-Form-Using-Reactjs-with-Hooks/",
+  "home": "https://harishshanmugamm.github.io/Employee-Form-Using-Reactjs-with-Hooks/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
